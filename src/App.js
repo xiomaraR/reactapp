@@ -27,7 +27,7 @@ function App() {
           <input id="lastName" name="lastName" type="text" placeholder="Last Name" title="Input your Last name" required />
           <input id="email" name="email" type="email" placeholder="Email Address" title="Input your email" required />
           <input id="password" name="password" type="password" placeholder="Password" title="Input any password" required />
-          <input id="formSubmit" className="btn-submit" name="submit" type="submit" defaultValue="Claim your free trial" />
+          <input id="formSubmit" className="btn-submit" name="submit" type="submit"  value="Claim your free trial" />
           <p>By clicking the button you are agreeing to our <a>Terms and Services</a></p>
         </form>
       </div>
