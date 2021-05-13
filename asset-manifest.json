@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/xiomaraR/reactapp/static/css/main.d3a972c1.chunk.css",
+    "main.js": "/xiomaraR/reactapp/static/js/main.34131d5e.chunk.js",
+    "main.js.map": "/xiomaraR/reactapp/static/js/main.34131d5e.chunk.js.map",
+    "runtime-main.js": "/xiomaraR/reactapp/static/js/runtime-main.791fc888.js",
+    "runtime-main.js.map": "/xiomaraR/reactapp/static/js/runtime-main.791fc888.js.map",
+    "static/js/2.e5c37ff6.chunk.js": "/xiomaraR/reactapp/static/js/2.e5c37ff6.chunk.js",
+    "static/js/2.e5c37ff6.chunk.js.map": "/xiomaraR/reactapp/static/js/2.e5c37ff6.chunk.js.map",
+    "static/js/3.fb4f0ec3.chunk.js": "/xiomaraR/reactapp/static/js/3.fb4f0ec3.chunk.js",
+    "static/js/3.fb4f0ec3.chunk.js.map": "/xiomaraR/reactapp/static/js/3.fb4f0ec3.chunk.js.map",
+    "index.html": "/xiomaraR/reactapp/index.html",
+    "static/css/main.d3a972c1.chunk.css.map": "/xiomaraR/reactapp/static/css/main.d3a972c1.chunk.css.map",
+    "static/js/2.e5c37ff6.chunk.js.LICENSE.txt": "/xiomaraR/reactapp/static/js/2.e5c37ff6.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/xiomaraR/reactapp/static/media/bg-intro-mobile.02ce3982.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.791fc888.js",
+    "static/js/2.e5c37ff6.chunk.js",
+    "static/css/main.d3a972c1.chunk.css",
+    "static/js/main.34131d5e.chunk.js"
+  ]
+}
