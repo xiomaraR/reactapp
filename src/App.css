@@ -49,11 +49,7 @@ p {
   font-weight: 400;
   line-height: 1.5rem;
   font-size: 0.9rem;
-<<<<<<< HEAD
   opacity: 0.85;
-=======
-  opacity: 0.80;
->>>>>>> adbb3c707514a8ae9e3361087596f460d2d60234
 }
 
 .offer {
@@ -127,6 +123,7 @@ form p {
   margin-bottom: 1rem;
   font-weight: 600;
   line-height: 1.5rem;
+  opacity: .85;
 }
   
 form a {
